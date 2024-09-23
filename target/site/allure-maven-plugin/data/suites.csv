@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 23 12:51:29 EET 2024","Mon Sep 23 12:51:30 EET 2024","1490","","autotests.LoginPositiveTest","","autotests.LoginPositiveTest","loginStandardUserTest","Авторизация со стандартным пользователем",""
+"passed","Mon Sep 23 12:51:25 EET 2024","Mon Sep 23 12:51:27 EET 2024","2130","","autotests.LoginNegativeTest","","autotests.LoginNegativeTest","loginLockedOutUserTest","Текст ошибки при авторизация с заблокированным пользователем",""
+"passed","Mon Sep 23 12:51:28 EET 2024","Mon Sep 23 12:51:29 EET 2024","1231","","autotests.LoginNegativeTest","","autotests.LoginNegativeTest","errorTextAuthWithoutUsernameAndPasswordTest","Текст ошибки при авторизации с пустым username и password",""

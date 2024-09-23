@@ -1,0 +1,6 @@
+pages\BasePage.class
+pages\ProductsPage.class
+autotests\LoginPositiveTest.class
+pages\LoginPage.class
+autotests\BaseTest.class
+autotests\LoginNegativeTest.class
